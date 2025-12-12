@@ -21,7 +21,7 @@ pip install streamlit pandas numpy plotly
 - Put the folder and the python script in the same folder.
   
 3. Run the Streamlit application:
-streamlit run "Singapore Employment Dashbaoard.py"
+streamlit run "Singapore_Employment_Dashbaoard.py"
 
 The dashboard will open automatically in your browser.
 
